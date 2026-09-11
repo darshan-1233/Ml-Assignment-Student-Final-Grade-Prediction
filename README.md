@@ -27,3 +27,9 @@ Designed for educational performance analysis
 🎯 Objective
 
 The goal of this project is to demonstrate how Machine Learning can be applied to predict student academic performance and identify patterns between student characteristics and final grades.
+
+
+Screenshots 
+
+
+
